@@ -7,7 +7,7 @@ require "formula"
 class Vicare < Formula
   homepage "http://marcomaggi.github.io/vicare.html"
   url "https://github.com/marcomaggi/vicare/archive/08bd828acfa9382324150b41f4e86c540c10a886.tar.gz"
-  sha1 "202ad829ccbe5c9fab66851bc40fe6c81d717879"
+  sha256 "ac7ed64b79a96bafa2f994b4c75a14dba18b11101bb90bc6db9641c97b91b6b8"
 
   depends_on "gsl"
   depends_on "libffi"
